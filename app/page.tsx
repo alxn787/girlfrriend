@@ -93,7 +93,7 @@ const Index = () => {
             I Love You
           </h1>
           <h2 className="text-4xl md:text-6xl font-semibold text-rose-600 mb-8 animate-bounce">
-            Angeleee ❤️
+            Girlfirend name ❤️
           </h2>
         </div>
 
